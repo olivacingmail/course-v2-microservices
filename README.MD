@@ -1,6 +1,6 @@
 # Notes
 
-Hello from Carlos Oliva
+Hello from Carlos Oliva today
 
 ## Preparation Steps
 
